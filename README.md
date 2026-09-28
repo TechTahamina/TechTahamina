@@ -1,6 +1,6 @@
 <!-- 1. BANNER: replace the URL with your own banner image (place it in the repo, e.g. assets/banner.png) -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Tahamina Binte Jaher banner" width="100%" />
+  <img src="/github-header-banner.png" alt="Tahamina Binte Jaher banner" width="100%" />
 </p>
 
 <!-- 2. NAME + DESIGNATION -->
