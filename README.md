@@ -4,7 +4,6 @@
 </p>
 
 <!-- 2. NAME + DESIGNATION -->
-<h3 align="center">Frontend Web Developer</h3>
 <p align="center">📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🗣️ Bengali · English</p>
 
 ---
