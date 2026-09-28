@@ -44,8 +44,8 @@ Hi there! I'm an ecommerce professional with a background in English language an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://YOUR-VERCEL-APP.vercel.app/api?username=TechTahamina&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://YOUR-VERCEL-APP.vercel.app/api?username=tahaminabd13&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=tahaminabd13&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
