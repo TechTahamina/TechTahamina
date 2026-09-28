@@ -18,9 +18,8 @@ Hi there! I'm an ecommerce professional with a background in English language an
 
 - 🔭 Learning **JavaScript, TypeScript, React & Vite**
 - 🛒 Managing ecommerce operations and ad campaigns at **Ecommerized**
-- 🌐 Building a website for a health & wellness distributorship (UAE market)
 - 🌱 Getting comfortable with Git & GitHub workflows
-- 💬 Ask me about **ecommerce, product listings, digital marketing**
+
 
 ## 🛠️ Skills
 
