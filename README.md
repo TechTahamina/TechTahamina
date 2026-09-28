@@ -1,10 +1,9 @@
 <!-- 1. BANNER: replace the URL with your own banner image (place it in the repo, e.g. assets/banner.png) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=220&section=header&text=Tahamina&fontSize=60&fontColor=fff&animation=blinking" />
+  <img src="assets/banner.svg" alt="Tahamina Binte Jaher banner" width="100%" />
 </p>
 
 <!-- 2. NAME + DESIGNATION -->
-<h1 align="center">Tahamina Binte Jaher</h1>
 <h3 align="center">Frontend Web Developer</h3>
 <p align="center">📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🗣️ Bengali · English</p>
 
