@@ -36,7 +36,7 @@ Hi there! I'm an ecommerce professional with a background in English language an
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/tahamina-binte-jaher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tahamina-binte-jaher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/thetahamina"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:techtahaminacodes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
