@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- 1. BANNER: replace the URL with your own banner image (place it in the repo, e.g. assets/banner.png) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Tahamina%20Binte%20Jaher&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+</p>
 
-<!--
-**TechTahamina/TechTahamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 2. NAME + DESIGNATION -->
+<h1 align="center">Tahamina Binte Jaher</h1>
+<h3 align="center">Frontend Web Developer</h3>
+<p align="center">📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🗣️ Bengali · English</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+Hi there! I'm an ecommerce professional with a background in English language and literature. I manage market research, product listings, advertising, order management, and client communication, while coordinating teams along the way. I love blending marketing know-how with code, and I'm currently growing my skills as a web developer.
+
+## 🚀 What I'm Up To
+
+- 🔭 Learning **JavaScript, TypeScript, React & Vite**
+- 🛒 Managing ecommerce operations and ad campaigns at **Ecommerized**
+- 🌐 Building a website for a health & wellness distributorship (UAE market)
+- 🌱 Getting comfortable with Git & GitHub workflows
+- 💬 Ask me about **ecommerce, product listings, digital marketing**
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github&perline=8" alt="Tech skills" />
+</p>
+
+<!-- Non-tech skills as icon badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Ecommerce-6C63FF?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-00C9A7?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Market%20Research-1E90FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/YOUR-NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
